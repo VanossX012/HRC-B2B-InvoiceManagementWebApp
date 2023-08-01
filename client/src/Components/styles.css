@@ -1,0 +1,15 @@
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #575757;
+    border-radius: 12px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #494848;
+}
+.MuiSvgIcon-root{
+    color: #ffff;
+}
